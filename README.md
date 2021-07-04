@@ -1,2 +1,3 @@
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 # The Cloud RPC
- Discord RPC Script 
+ Gotta add more to this to help the peeps -jellisy
