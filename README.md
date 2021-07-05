@@ -2,5 +2,5 @@
 # The Cloud RPC
  Gotta add more to this to help the peeps -jellisy
  
-# Download The thing below
+# Download The thing below before running the script
 [Download Python 3.9.6](https://www.python.org/downloads/release/python-396/)
